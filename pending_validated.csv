@@ -1,0 +1,134 @@
+Bill Name,PredictedStatus,Jurisdiction,Actual Status
+A 10015,Failed,New York,Referred Elsewhere
+A 10020,Failed,New York,Referred Elsewhere
+A 10103,Failed,New York,Referred Elsewhere
+A 10374,Failed,New York,Referred Elsewhere
+A 10494,Failed,New York,Referred Elsewhere
+A 10583,Failed,New York,Referred Elsewhere
+A 10625,Failed,New York,Referred Elsewhere
+A 10652,Failed,New York,Referred Elsewhere
+A 1282,Failed,California,Enacted
+A 1791,Failed,California,Failed
+A 1873,Failed,California,Failed
+A 2013,Failed,California,Enacted
+A 2355,Failed,California,Enacted
+A 2602,Failed,California,Enacted
+A 2652,Failed,California,Failed
+A 2811,Failed,California,Failed
+A 2905,Failed,California,Enacted
+A 3030,Failed,California,Enacted
+A 3058,Failed,California,Failed
+A 3204,Failed,California,Failed
+A 331,Failed,California,Failed
+A 3593,Failed,New York,Referred Elsewhere
+A 4534,Failed,New York,Referred Elsewhere
+A 459,Failed,California,Failed
+A 5296,Failed,New York,Referred Elsewhere
+A 5309,Enacted,New York,Referred Elsewhere
+A 567,Failed,New York,Referred Elsewhere
+A 664,Failed,Wisconsin,Enacted
+A 7106,Failed,New York,Sent Back For Amendment
+A 7501,Failed,New York,Referred Elsewhere
+A 7838,Failed,New York,Referred Elsewhere
+A 7859,Failed,New York,Referred Elsewhere
+A 7906,Failed,New York,Sent Back For Amendment
+A 8098,Failed,New York,Referred Elsewhere
+A 8105,Failed,New York,Referred Elsewhere
+A 8110,Failed,New York,Referred Elsewhere
+A 8138,Failed,New York,Referred Elsewhere
+A 8158,Failed,New York,Referred Elsewhere
+A 8179,Enacted,New York,Referred Elsewhere
+A 8195,Failed,New York,Referred Elsewhere
+A 8369,Failed,New York,Referred Elsewhere
+A 843,Failed,New York,Referred Elsewhere
+A 9028,Failed,New York,Referred Elsewhere
+A 9054,Failed,New York,Referred Elsewhere
+A 9103,Failed,New York,Referred Elsewhere
+A 9149,Failed,New York,Referred Elsewhere
+A 9180,Failed,New York,Referred Elsewhere
+A 9315,Failed,New York,Referred Elsewhere
+A 9430,Failed,New York,Referred Elsewhere
+A 9473,Failed,New York,Referred Elsewhere
+A 9488,Failed,New York,Referred Elsewhere
+ACR 96,Failed,California,Failed
+H 1063,Failed,Pennsylvania,Referred Elsewhere
+H 1304,Enacted,Pennsylvania,Enacted
+H 1380,Failed,Pennsylvania,Referred Elsewhere
+H 1663,Failed,Pennsylvania,Referred Elsewhere
+H 1729,Failed,Pennsylvania,Referred Elsewhere
+H 1753,Failed,Pennsylvania,Referred Elsewhere
+H 1873,Failed,Massachusetts,Failed
+H 2079,Failed,Pennsylvania,Referred Elsewhere
+H 2291,Failed,Pennsylvania,Referred Elsewhere
+H 4024,Enacted,Massachusetts,Failed
+H 4601,Enacted,Massachusetts,Failed
+H 49,Enacted,Pennsylvania,Referred Elsewhere
+H 51,Enacted,Massachusetts,Failed
+H 5142,Enacted,Michigan,Referred Elsewhere
+H 560,Failed,Massachusetts,Failed
+H 64,Failed,Massachusetts,Failed
+HR 496,Failed,Pennsylvania,Referred Elsewhere
+S 1044,Failed,Pennsylvania,Referred Elsewhere
+S 1047,Failed,California,Failed
+S 1083,Failed,Pennsylvania,Referred Elsewhere
+S 1120,Failed,California,Enacted
+S 1154,Failed,California,Failed
+S 1213,Failed,Pennsylvania,Enacted
+S 1217,Failed,Pennsylvania,Referred Elsewhere
+S 1220,Failed,California,Failed
+S 1229,Failed,California,Failed
+S 1235,Failed,California,Enacted
+S 1264,Failed,Pennsylvania,Referred Elsewhere
+S 1288,Failed,California,Enacted
+S 1446,Failed,California,Failed
+S 217,Failed,Ohio,Referred Elsewhere
+S 2277,Failed,New York,Referred Elsewhere
+S 23,Enacted,Massachusetts,Referred Elsewhere
+S 2477,Enacted,New York,Referred Elsewhere
+S 2539,Failed,Massachusetts,Failed
+S 2584,Enacted,Massachusetts,Failed
+S 2806,Enacted,Massachusetts,Failed
+S 2850,Enacted,Massachusetts,Sent Back For Amendment
+S 2869,Enacted,Massachusetts,Sent Back For Amendment
+S 294,Failed,California,Failed
+S 31,Failed,Massachusetts,Sent Back For Amendment
+S 33,Enacted,Massachusetts,Sent Back For Amendment
+S 523,Failed,Wisconsin,Failed
+S 5641,Failed,New York,Referred Elsewhere
+S 6402,Failed,New York,Referred Elsewhere
+S 6638,Failed,New York,Referred Elsewhere
+S 6685,Failed,New York,Referred Elsewhere
+S 6859,Failed,New York,Referred Elsewhere
+S 721,Enacted,California,Enacted
+S 7422,Failed,New York,Referred Elsewhere
+S 7543,Failed,New York,Referred Elsewhere
+S 7592,Failed,New York,Referred Elsewhere
+S 7623,Failed,New York,Referred Elsewhere
+S 7676,Failed,New York,Referred Elsewhere
+S 7735,Failed,New York,Referred Elsewhere
+S 7847,Failed,New York,Referred Elsewhere
+S 7922,Failed,New York,Referred Elsewhere
+S 8138,Failed,New York,Referred Elsewhere
+S 8206,Failed,New York,Referred Elsewhere
+S 8214,Failed,New York,Referred Elsewhere
+S 8308,Enacted,New York,Referred Elsewhere
+S 8390,Failed,New York,Referred Elsewhere
+S 8755,Failed,New York,Referred Elsewhere
+S 892,Failed,California,Failed
+S 893,Failed,California,Failed
+S 896,Failed,California,Enacted
+S 9104,Failed,New York,Referred Elsewhere
+S 913,Failed,Pennsylvania,Referred Elsewhere
+S 933,Failed,California,Failed
+S 9381,Failed,New York,Referred Elsewhere
+S 9401,Failed,New York,Referred Elsewhere
+S 942,Failed,California,Enacted
+S 9434,Failed,New York,Referred Elsewhere
+S 9439,Failed,New York,Referred Elsewhere
+S 9450,Failed,New York,Referred Elsewhere
+S 9542,Failed,New York,Referred Elsewhere
+S 9609,Failed,New York,Referred Elsewhere
+S 9640,Failed,New York,Referred Elsewhere
+S 970,Failed,California,Failed
+S 9832,Failed,New York,Referred Elsewhere
+SR 143,Enacted,Pennsylvania,Referred Elsewhere
